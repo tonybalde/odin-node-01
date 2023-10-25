@@ -2,10 +2,10 @@
 ## Assigment
 
 1. Make a project directory and create the following files inside that directory:
-index.html
-about.html
-contact-me.html
-404.html
+- index.html
+- about.html
+- contact-me.html
+- 404.html
 
 2. Create your node.js server file index.js and add the code needed to serve the right page according to the url.
 
