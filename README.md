@@ -7,6 +7,7 @@
 <li>about.html</li>
 <li>contact-me.html</li>
 <li>404.html</li>
+<br />
 
 2. Create your node.js server file index.js and add the code needed to serve the right page according to the url.
 
